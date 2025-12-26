@@ -1,0 +1,16 @@
+{
+  "name": "tabirdede-backend",
+  "version": "1.0.0",
+  "description": "Tabirdede backend API",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "pg": "^8.11.5",
+    "dotenv": "^16.4.5"
+  }
+}
